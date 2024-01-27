@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😁, I'm Carlos</h1>
 <h3 align="center">A passionate developer from spain</h3>
 
-- 👨‍💻 All of my projects are available at [krlo.dev](krlo.dev)
+- 👨‍💻 All of my projects are available at [krlo.dev](https://krlo.dev)
 
 - 📫 How to reach me **me@krlo.dev**
 
