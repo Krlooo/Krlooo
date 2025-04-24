@@ -1,4 +1,4 @@
-# 💫 About Me:  [![]()]([https://github.com/Krlooo](https://visitcountpro.netlify.app/api?id=Krlooo&label=Profile%20Views&color=10&pretty=false))
+# 💫 About Me:  [![](https://visitcountpro.netlify.app/api?id=Krlooo&label=Profile%20Views&color=10&pretty=false)](https://github.com/Krlooo)
 
 I'm a self-taught and proactive developer with a strong passion for programming 💻 and technology. Currently diving deep into Artificial Intelligence 🤖 and Quantum Computing ⚛️ — fields I believe are shaping the future of innovation.
 
